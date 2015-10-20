@@ -23,10 +23,11 @@ Chuck Crocker <ccrocker@tuscaloosa.com> City of Tuscaloosa, CIO
 2. **Encourage Open Data**: If the city knows how many people want an open data policy, they will be more likely to implement one. We need to educate people about the importance of open data and directly petition for one.
 
 3. **Progress existing projects**: We want to get our projects to a working state so they will be useful. Some of our activities:
-* [Cute Pets Tuscaloosa](https://github.com/CodeforTuscaloosa/CutePets) *redoployed* (tweets adoptable pets in the area)
-* [UA Budget Visualization](https://github.com/CodeforTuscaloosa/Visual-Town-Budget) *in progress* (helps people understand how the University of Alabama spends its funds)
-* [Storm Safe Alabama](https://github.com/mleeds95/StormSafeAlabama-android) *in progress* (helps people locate nearby storm shelters)
-* [Open Disclosure](https://github.com/CodeforBirmingham/Open-Disclosure) *in progress* (helps people understand state campaign finance data)
+
+   * [Cute Pets Tuscaloosa](https://github.com/CodeforTuscaloosa/CutePets) *redoployed* (tweets adoptable pets in the area)
+   * [UA Budget Visualization](https://github.com/CodeforTuscaloosa/Visual-Town-Budget) *in progress* (helps people understand how the University of Alabama spends its funds)
+   * [Storm Safe Alabama](https://github.com/mleeds95/StormSafeAlabama-android) *in progress* (helps people locate nearby storm shelters)
+   * [Open Disclosure](https://github.com/CodeforBirmingham/Open-Disclosure) *in progress* (helps people understand state campaign finance data)
 
 
 ## Draft Budget
